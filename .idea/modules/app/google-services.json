@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "975062575958",
+    "firebase_url": "https://gps-application-3bcbc.firebaseio.com",
+    "project_id": "gps-application-3bcbc",
+    "storage_bucket": "gps-application-3bcbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975062575958:android:f862b3a046ec1d5dcb04f7",
+        "android_client_info": {
+          "package_name": "com.brhen10dev.gps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975062575958-tn5p8fii55mpskq8i2hsl3sj9eqi3chi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brhen10dev.gps",
+            "certificate_hash": "ec546489993ca0feb31db50839567894d16560f7"
+          }
+        },
+        {
+          "client_id": "975062575958-28cshog43b20170m5ngs8tt8tiu783lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzzR31DyomNcJQ38ag6uwtcaOonFjRJ2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975062575958-28cshog43b20170m5ngs8tt8tiu783lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975062575958:android:b6ffdbd4c83da406cb04f7",
+        "android_client_info": {
+          "package_name": "com.brhen10dev.gps_aplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975062575958-j1ukier9hu0595b9qd25u0i3jhirupri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brhen10dev.gps_aplication",
+            "certificate_hash": "ec546489993ca0feb31db50839567894d16560f7"
+          }
+        },
+        {
+          "client_id": "975062575958-28cshog43b20170m5ngs8tt8tiu783lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzzR31DyomNcJQ38ag6uwtcaOonFjRJ2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975062575958-28cshog43b20170m5ngs8tt8tiu783lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975062575958:android:0d0b80537a17ff92cb04f7",
+        "android_client_info": {
+          "package_name": "com.brhen10dev.gps_lixo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975062575958-cped881ktn2notcf2ci572ss4svcib7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brhen10dev.gps_lixo",
+            "certificate_hash": "ec546489993ca0feb31db50839567894d16560f7"
+          }
+        },
+        {
+          "client_id": "975062575958-28cshog43b20170m5ngs8tt8tiu783lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzzR31DyomNcJQ38ag6uwtcaOonFjRJ2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975062575958-28cshog43b20170m5ngs8tt8tiu783lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
